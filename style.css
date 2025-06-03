@@ -1,0 +1,52 @@
+@import "UTF-8";
+body {
+            font-family: Arial, sans-serif;
+            background: #4d4d4d;
+            color: #333;
+            max-width: 700px;
+            margin: 40px auto;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #fff;
+            box-shadow: 0 0 12px rgba(0,0,0,0.1);
+        }
+
+h2 {
+            color: #79005e;
+            text-align: center;
+        }
+
+form {
+            margin-top: 20px;
+        }
+
+.pergunta {
+            margin-bottom: 20px;
+        }
+
+label {
+            font-weight: bold;
+        }
+
+.resposta {
+            margin-top: 30px;
+            padding: 15px;
+            border-radius: 8px;
+            background-color: #854d78;
+            font-size: 1.1em;
+            color: white;
+        }
+
+button {
+            background-color: #79005e;
+            color: white;
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #5e074b;
+        }
